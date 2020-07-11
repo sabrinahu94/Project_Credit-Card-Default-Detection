@@ -1,0 +1,2 @@
+# Project_Credit-Card-Default-Detection
+predict whether a credit card would be default or not. It's a classification problem where the label set is imbalanced since most of the credit cards are normal and only a few of them are default. For this project, we can not only have the chance to train a powerful classification model, but also tackle on the very important problem we might encounter in the fut
